@@ -1,0 +1,26 @@
+.skillsContainer{
+    width:100%;
+    height:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    flex-direction: column;
+}
+.skillsContainer-section{
+    width: 1800px;
+    height:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+.skillsContainer-section img{
+    width:100px;
+}
+
+#disclaimer{
+    color:#fff;
+
+   font-family: 'DM Sans', sans-serif;
+}
